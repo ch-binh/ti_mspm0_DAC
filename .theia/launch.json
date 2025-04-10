@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dac12_fifo_timer_event_LP_MSPM0G3507_nortos_ticlang",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "dac12_fifo_timer_event_LP_MSPM0G3507_nortos_ticlang",
+                "resourceId": "/dac12_fifo_timer_event_LP_MSPM0G3507_nortos_ticlang"
+            }
+        }
+    ]
+}
